@@ -1,3 +1,3 @@
 #! /bin/bash
 
-echo "Hello wibe"
+echo "Hello wibe!"
