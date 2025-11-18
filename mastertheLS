@@ -1,3 +1,2 @@
 #! /bin/bash
-
-s -Atp --group-directories-first | grep -v "^\." | grep -v "^\.\/\?\?$" | sed 's@\([^/]\)$@\1@;s@^\(.*\)/$@\1/@' | paste -sd, -
+ls -tupm | sed 's/, /,/g'
