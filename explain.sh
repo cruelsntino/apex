@@ -1,14 +1,14 @@
 #! /bin/bash
 
-echo "Egegwu Raphael"
+echo "Annabel Church"
 
-echo "699678"
+echo "699607"
 
-echo "White Bentley"
+echo "Blue Honda"
 
-echo "Queen Orisha"
+echo "Joe Germuska"
 
-echo "Helen Crawford"
+echo "Helen Maher"
 
 echo "Erika Owens"
 
